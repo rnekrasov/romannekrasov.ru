@@ -1,0 +1,1 @@
+ ME      RMSE       MAE         MPE      MAPE     MASE        ACF1
